@@ -1,0 +1,10 @@
+memberId,name,email,phone,joinDate,membershipType
+201,"Alice Johnson",alice.johnson@example.com,123-456-7890,2021-01-15,Regular
+202,"Bob Smith",bob.smith@example.com,234-567-8901,2020-05-22,Premium
+203,"Charlie Brown",charlie.brown@example.com,345-678-9012,2019-11-30,Regular
+204,"David Wilson",david.wilson@example.com,456-789-0123,2022-03-10,Student
+205,"Eva Green",eva.green@example.com,567-890-1234,2021-07-25,Regular
+206,"Frank White",frank.white@example.com,678-901-2345,2020-12-05,Premium
+207,"Grace Lee",grace.lee@example.com,789-012-3456,2021-09-15,Regular
+208,"Henry Adams",henry.adams@example.com,890-123-4567,2018-04-20,Student
+209,"Isabella Martinez",isabella.martinez@example.com,901-234-5678,2022-01-30,Premium
